@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/img1.jpg",
+        "alt": "Tian Tan Buddha",
+        "name": "Tian Tan Buddha",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/img2.jpg",
+        "alt": "Petra District",
+        "name": "Petra District",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/img3.jpg",
+        "alt": "Humayun Tomb",
+        "name": "Humayun Tomb",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/img4.jpg",
+        "alt": "Dunhinda Falls",
+        "name": "Dunhinda Falls",
+        "button": "View Destination"
+    }
+]
